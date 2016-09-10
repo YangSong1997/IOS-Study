@@ -1,1 +1,1 @@
-# IOS-Study
+# A repository for personal ios development studies and file backup
